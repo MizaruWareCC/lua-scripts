@@ -3,7 +3,7 @@ utils.reg_tool("Randomizer", function()
   if ans:startswith("n") then
       print(random.number())
   elseif ans:startswith("s") then
-      print(random.string()))
+      print(random.string())
   else
     print("Unknown option!")
   end
