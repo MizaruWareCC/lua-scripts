@@ -1,4 +1,4 @@
-reg_tool("A*B", function()
+utils.reg_tool("A*B", function()
   local a = tonumber(input("Enter A: "))
   local b = tonumber(input("Enter B: "))
   print("Result: ", a * b, "\n")
