@@ -1,0 +1,10 @@
+register_tool("Download site content", function()
+    local site = input("Enter site: ")
+    local http = HttpClient.new()
+    print("Please, wait a bit...")
+    local resp = http:get(site)
+    local file = File.new("downloaded.bin")
+    if not file:exists() then file:create() end
+    file:write(resp.text)
+    print("Check your current directory for downloaded.bin file.")
+end)
