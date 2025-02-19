@@ -47,7 +47,7 @@ register_tool("Discord tools", function()
     local tool = callbacks[choice]
     if not tool then print("Invalid tool!") return end
     
-    if token then print("Loaded token from cfg.bin, if you wish to change, delete cfg.bin file!") else token = ask_token() end
+    if token then print("Loaded token from cfg.bin, if you wish to change, delete cfg.bin file and restart program!") else token = ask_token() end
     
     if token == false then return end
     
