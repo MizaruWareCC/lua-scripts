@@ -1,0 +1,41 @@
+End User License Agreement (EULA)
+Effective Date: March 4, 2025, 15:00 Moscow Time
+
+1. Introduction
+This End User License Agreement ("EULA") is a legal agreement between you ("User") and Xtral Tools ("we," "our," or "us") regarding the use of our software. By installing, accessing, or using Xtral Tools, you agree to comply with this EULA. If you do not agree, you must not use the software.
+
+2. License Grant
+We grant you a non-exclusive, non-transferable, and revocable license to use Xtral Tools in accordance with this EULA. This license does not grant ownership of the software.
+
+3. Key Features and Functionality
+Xtral Tools provides the following core functionalities:
+- Loading Lua Scripts from the Cloud – Users can access and execute Lua scripts hosted remotely.
+- Custom API for Script Development – Users may write and run their own Lua scripts using our API.
+
+4. Data Storage and Privacy
+Xtral Tools does not store any user data.
+Lua scripts executed within the program may store or process data. Users are responsible for understanding and accepting the privacy practices of individual script authors.
+
+5. Third-Party Lua Scripts and Terms
+User-Created Scripts: We do not monitor, control, or take responsibility for any Lua scripts created, distributed, or executed within Xtral Tools.
+Script-Specific Terms: Script authors may set their own Terms of Service (ToS) for their scripts. However, these terms must not conflict with this EULA.
+
+6. Restrictions
+Users agree not to:
+- Reverse-engineer, decompile, disassemble, or attempt to derive the source code of Xtral Tools.
+- Modify, bypass, or interfere with any protections, security measures, or rules implemented in the software or API.
+- Use Xtral Tools in a way that violates any applicable laws or regulations.
+
+7. Disclaimer of Liability
+We do not take responsibility for any scripts created or distributed by users.
+We are not liable for any damages, data loss, or issues resulting from the use of Lua scripts within Xtral Tools.
+Users assume all risks when executing scripts from third-party sources.
+
+8. Termination
+This license is effective until terminated. We may revoke your access to Xtral Tools if you violate this EULA. Upon termination, you must cease using the software and delete all copies.
+
+9. Changes to This Agreement
+We reserve the right to modify this EULA at any time. Changes will be effective upon publication. Continued use of Xtral Tools after updates constitutes acceptance of the new terms.
+
+10. Contact Information
+For questions about this EULA, contact us at [Your Contact Email or Website].
